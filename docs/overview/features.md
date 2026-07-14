@@ -23,6 +23,9 @@
   adding/removing its slug in `docs/spectra/personas.config`. Run with no argument to pick from a
   numbered list. Any persona is toggleable, including the core four.
 - **Protocol** (`spectra/protocol.md`) - route → spec → plan → build → test → review → merge → reflect.
+  Specs are **living sources of truth**: routing a feature first decides net-new vs. modifying an
+  existing spec, and any behavior change updates the owning spec in place so the spec never drifts
+  from the shipped software.
 - **Review personas** - engineer 🔧, tester 🧪, architect 📐, security 🔒 enabled by default, plus
   **optional** designer 🎨, compliance ⚖️, and analytics 📊 (shipped but off until enabled) and
   consumer-defined user 👤 (ICP) personas - one per customer profile, each present once
