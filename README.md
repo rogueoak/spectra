@@ -31,7 +31,7 @@ review personas, the artifact structure, and a reflection reminder) without copy
 ## What's new
 
 <!-- whats-new:start -->
-**1.0.3** - Spectra now uses the shared Trellis plugin-release pipeline for versioning and releases.
+**1.1.0** - Specs are now the living source of truth: routing decides net-new vs. changing an existing spec, and behavior changes update the owning spec in place.
 <!-- whats-new:end -->
 
 See every release at
