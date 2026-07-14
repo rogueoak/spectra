@@ -10,7 +10,7 @@
       "name": "spectra",
       "source": "./spectra",
       "description": "Install and maintain the Spectra spec-driven development protocol in your repo.",
-      "version": "1.0.3",
+      "version": "1.1.0",
       "keywords": ["spec-driven", "protocol", "workflow", "agents", "reviews"]
     }
   ]
