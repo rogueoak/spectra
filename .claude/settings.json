@@ -1,0 +1,11 @@
+{
+  "extraKnownMarketplaces": {
+    "trellis": {
+      "source": { "source": "github", "repo": "rogueoak/trellis" },
+      "autoUpdate": true
+    }
+  },
+  "enabledPlugins": {
+    "trellis@trellis": true
+  }
+}
