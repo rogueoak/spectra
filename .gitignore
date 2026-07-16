@@ -6,5 +6,6 @@ Thumbs.db
 
 # Claude Code local state & Spectra worktrees (but NOT .claude-plugin/, which ships)
 .claude/
+!.claude/settings.json
 .worktrees/
 *.worktrees/
